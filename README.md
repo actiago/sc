@@ -1,1 +1,1 @@
-######## backup tool for freebsd #######
+# backup tool for freebsd and linux
