@@ -41,5 +41,5 @@ echo ". . . . . . . . . . . . . " >> $LOG
 echo "Backup finalizado em $DATE" >> $LOG
 
 #================= enviando email =====================#
-/usr/bin/sendEmail -l /var/log/sendEmail.log -s smtp.g10.com.br:587 -f $MAIL -t infra@empresa.com.br -u " Backup G10 Storage $ACT_DATE " -a $LOG -o "message-file=$LOG" -xu srv.infra -xp $PASS
+/usr/bin/sendEmail -l /var/log/sendEmail.log -s smtp.empresa.com.br:587 -f $MAIL -t infra@empresa.com.br -u " Backup Storage $ACT_DATE " -a $LOG -o "message-file=$LOG" -xu srv.infra -xp $PASS
 
