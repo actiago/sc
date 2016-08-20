@@ -1,0 +1,15 @@
+# Meu ambiente de desenvolvimento pós instalação do OSX
+
+1. Instale o Xcode 
+2. Instale o zsh 
+3. instale o ohmyzsh: http://ohmyz.sh
+
+    $ sh -c "$(curl -fsSL https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
+
+4. Instale o homebrew: http://brew.sh
+    
+    /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+
+5. Baixe o my_vimrc.conf contido em: https://github.com/cegohub/sc
+6. Instale o iTerm2: https://www.iterm2.com
+7. Instale o github
