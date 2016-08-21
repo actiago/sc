@@ -1,8 +1,8 @@
 #!/bin/bash 
 # Global config.
  
-read -p "User Name" -n2 USER
-read -p "Email" -n2 EMAIL
+read -p "User Name: "  USER
+read -p "Email "  EMAIL
 echo "#"
 echo "Configurando git"
 
