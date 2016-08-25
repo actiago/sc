@@ -4,5 +4,4 @@
 
 ## Links para leitura
 1. Criptografia
-    * Journey into cryptography - https://www.khanacademy.org/computing/computer-science/cryptography
     * [__Journey into cryptography__](https://www.khanacademy.org/computing/computer-science/cryptography)
