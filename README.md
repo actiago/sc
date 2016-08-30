@@ -39,3 +39,13 @@
     * [__Hacking-Tools_repository__](http://gexos.github.io/Hacking-Tools-Repository/)
     * [__SocialEnginerToolkit__](https://www.trustedsec.com/social-engineer-toolkit/)
     * [__LetsEncrypt__](https://letsencrypt.org)
+
+6. Plus
+    * ➜  ~ figlet figlet
+         __ _       _      _
+        / _(_) __ _| | ___| |_
+       | |_| |/ _` | |/ _ \ __|
+       |  _| | (_| | |  __/ |_
+       |_| |_|\__, |_|\___|\__|
+              |___/
+
