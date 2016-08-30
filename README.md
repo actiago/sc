@@ -26,7 +26,7 @@
     * [__20 Linux System Monitoring Tools Every SysAdmin Should Know__](http://www.cyberciti.biz/tips/top-linux-monitoring-tools.html)
     * [__List Of Tools To Monitor The Health Of Your Linux System__](http://www.unixmen.com/list-tools-monitor-health-linux-system/)
     * [__Apache Performance Tuning__](http://www.unixmen.com/apache-performance-tuning/)
-    
+    * [__HTTP2 no Nginx__](https://www.digitalocean.com/community/tutorials/how-to-set-up-nginx-with-http-2-support-on-ubuntu-16-04)
 4. Microsoft 
     * [__MVA gerenciamento de indentidade de acesso__](https://mva.microsoft.com/training-topics/gerenciamento-acesso-dentidade#!lang=1033)
     * [__Empreendedorismo__](https://technet.microsoft.com/pt-br/dn801072)
