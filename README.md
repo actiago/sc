@@ -42,10 +42,4 @@
 
 6. Plus
     * ➜  ~ figlet figlet
-         __ _       _      _
-        / _(_) __ _| | ___| |_
-       | |_| |/ _` | |/ _ \ __|
-       |  _| | (_| | |  __/ |_
-       |_| |_|\__, |_|\___|\__|
-              |___/
-
+    * No OSX edite o crontab e digite: */30 * * * * say -v whisper "I am watching you"
