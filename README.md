@@ -36,3 +36,6 @@
     * [__Anatomia de uma brecha__](https://blog.rackspace.com/pt/a-anatomia-de-uma-brecha-licoes-para-reforcar-a-seguranca-de-ti?cm_mmc=security-_-syndication-_-outbrain-_-latam2016)
     * [__Forensic Tools__](http://www.hackersonlineclub.com/forensic-tools/)
     * [__Security Measures To Protect Your Servers__](http://www.unixmen.com/security-measures-protect-servers/)
+    * [__Hacking-Tools_repository__](http://gexos.github.io/Hacking-Tools-Repository/)
+    * [__SocialEnginerToolkit__](https://www.trustedsec.com/social-engineer-toolkit/)
+    * [__LetsEncrypt__](https://letsencrypt.org)
