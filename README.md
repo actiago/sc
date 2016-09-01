@@ -46,3 +46,4 @@
     * ➜  ~ figlet figlet
     * No OSX edite o crontab e digite: */30 * * * * say -v whisper "I am watching you"
     * [__3RDdrones__](https://3dr.com)
+    * MeuIPo - curl canhazip.com ou curl ifconfig.pro  
