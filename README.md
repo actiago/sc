@@ -31,6 +31,7 @@
 4. Microsoft 
     * [__MVA gerenciamento de indentidade de acesso__](https://mva.microsoft.com/training-topics/gerenciamento-acesso-dentidade#!lang=1033)
     * [__Empreendedorismo__](https://technet.microsoft.com/pt-br/dn801072)
+    * [__Azure essentials 2Nd Edition__](https://blogs.msdn.microsoft.com/microsoft_press/2016/09/01/free-ebook-microsoft-azure-essentials-fundamentals-of-azure-second-edition/)
 
 5. Segurança
     * [__Recomendações de cibersegurança para o local de trabalho__](http://www.securityhacker.org/blog/2016/02/07/recomendacoes-de-ciberseguranca-para-o-local-de-trabalho)
