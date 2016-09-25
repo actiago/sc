@@ -1,0 +1,5 @@
+BoxSync
+MegaSync
+SpyderOAK
+VMware Fusion
+VeraCrypt
