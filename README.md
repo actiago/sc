@@ -42,7 +42,7 @@
     * [__SocialEnginerToolkit__](https://www.trustedsec.com/social-engineer-toolkit/)
     * [__LetsEncrypt__](https://letsencrypt.org)
     * [__Fui Ownado?__](https://haveibeenpwned.com)
-
+    * [__Shodan__](https://www.shodan.io)
 6. Plus
     * ➜  ~ figlet figlet
     * No OSX edite o crontab e digite: */30 * * * * say -v whisper "I am watching you"
