@@ -44,9 +44,14 @@
     * [__Fui Ownado?__](https://haveibeenpwned.com)
     * [__Shodan__](https://www.shodan.io)
     * [__AnonymousEmail__](https://anonymousemail.me/) 
-    * [__RamsonwareOverview__](https://docs.google.com/spreadsheets/d/1TWS238xacAto-fLKh1n5uTsdijWdCEsGIM0Y0Hvmc5g/pubhtml)
+    * [__RansomwareOverview__](https://docs.google.com/spreadsheets/d/1TWS238xacAto-fLKh1n5uTsdijWdCEsGIM0Y0Hvmc5g/pubhtml)
+    * [__NoMoreRansomware__](https://www.nomoreransom.org/decryption-tools.html)
+    * [__OpenStack Adm. Essentials__] (https://www.linux.com/blog/learn/chapter/OpenStack/essentials-openstack-administration-part-6-installing-devstack-lab)
+    * [__60kPrinters__] (https://kur0sec.org/print)
 6. Plus
     * ➜  ~ figlet figlet
     * No OSX edite o crontab e digite: */30 * * * * say -v whisper "I am watching you"
     * [__3RDdrones__](https://3dr.com)
     * MeuIPo - curl canhazip.com ou curl ifconfig.pro  
+    * [__TrumpFakeTweet__] (http://faketrumptweet.com/)
+
