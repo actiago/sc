@@ -44,6 +44,7 @@
     * [__Fui Ownado?__](https://haveibeenpwned.com)
     * [__Shodan__](https://www.shodan.io)
     * [__AnonymousEmail__](https://anonymousemail.me/) 
+    * [__RamsonwareOverview__](https://docs.google.com/spreadsheets/d/1TWS238xacAto-fLKh1n5uTsdijWdCEsGIM0Y0Hvmc5g/pubhtml)
 6. Plus
     * ➜  ~ figlet figlet
     * No OSX edite o crontab e digite: */30 * * * * say -v whisper "I am watching you"
