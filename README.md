@@ -49,3 +49,5 @@
     * No OSX edite o crontab e digite: */30 * * * * say -v whisper "I am watching you"
     * [__3RDdrones__](https://3dr.com)
     * MeuIPo - curl canhazip.com ou curl ifconfig.pro  
+    * Seja um Hackudo acessando: http://geektyper.com/
+    * [__HTTP Status API__](https://http.cat)
