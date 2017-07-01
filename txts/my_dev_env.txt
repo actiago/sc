@@ -13,3 +13,4 @@
 5. Baixe o my_vimrc.conf contido em: https://github.com/cegohub/sc
 6. Instale o iTerm2: https://www.iterm2.com
 7. Instale o github
+8. My ZSH Theme: ZSH_THEME="kolo"
