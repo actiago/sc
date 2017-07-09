@@ -28,6 +28,7 @@
     * [__Apache Performance Tuning__](http://www.unixmen.com/apache-performance-tuning/)
     * [__HTTP2 no Nginx__](https://www.digitalocean.com/community/tutorials/how-to-set-up-nginx-with-http-2-support-on-ubuntu-16-04)
     * [__Linux how long a process has been running?__](http://www.cyberciti.biz/faq/how-to-check-how-long-a-process-has-been-running/)
+    * [__Netdata Monitoring Tool__](http://my-netdata.io)
 4. Microsoft 
     * [__MVA gerenciamento de indentidade de acesso__](https://mva.microsoft.com/training-topics/gerenciamento-acesso-dentidade#!lang=1033)
     * [__Empreendedorismo__](https://technet.microsoft.com/pt-br/dn801072)
