@@ -14,6 +14,7 @@
 
 3. Unix
     * [__Vim Tutorial__](https://danielmiessler.com/study/vim/?twitterID=nixCraft)
+    * [__Transfer.Sh__](http://transfer.sh/)
     * [__Linux for hosting by Unixman__](http://www.unixmen.com/best-linux-hosting/)
     * [__Blog Lab Cisco__](http://labcisco.blogspot.com.br)
     * [__Regular Expressions In grep__](http://www.cyberciti.biz/faq/grep-regular-expressions/)
@@ -56,9 +57,11 @@
 
 6. Cultura DevOps
     * [__Semana DevOps__](http://www.semanadevops.com.br)
+    * [__Hardening Framework__](http://dev-sec.io/)
 
 7. Cursos 
     * [__C moderno com Fernando Mercês__](https://www.youtube.com/playlist?list=PLIfZMtpPYFP5qaS2RFQxcNVkmJLGQwyKE)
+    * [__Curso Online Gratuito – Microsoft Power BI para Data Science – Data Science Academy__](http://datascienceacademy.com.br/blog/curso-online-gratuito-microsoft-power-bi-para-data-science/)
 
 8. Extra
     * ➜  ~ figlet figlet
