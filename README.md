@@ -1,16 +1,15 @@
 # Tool list   
-###### versão 0.0.0.0.0.0.0.0.0.0.1.0 
+###### versão 0.0.0.0.0.0.0.0.0.1.1.0 
 =============================
 
-## Links para pesquisa 
-1. Criptografia
-    * [__Journey into cryptography__](https://www.khanacademy.org/computing/computer-science/cryptography)
-
+## Links para pesquisas relacionadas a cada área destacada
+###### Este documento pode não estar perfeitamente organizado
 2. Infra
     * [__Network Diagram 101__](http://networkdiagram101.com)
     * [__Mapa do backbone BR__](https://memoria.rnp.br/backbone/index.php)
     * [__GestoIP IPAM Software__](https://www.gestioip.net) 
     * [__GoAccess SIEM Software__](https://goaccess.io)
+    * [__RAID Calc__] (http://www.wolframalpha.com/input/?i=RAID+5+4+disks+a+600gb)
 
 3. Unix
     * [__Vim Tutorial__](https://danielmiessler.com/study/vim/?twitterID=nixCraft)
@@ -62,6 +61,7 @@
 7. Cursos 
     * [__C moderno com Fernando Mercês__](https://www.youtube.com/playlist?list=PLIfZMtpPYFP5qaS2RFQxcNVkmJLGQwyKE)
     * [__Curso Online Gratuito – Microsoft Power BI para Data Science – Data Science Academy__](http://datascienceacademy.com.br/blog/curso-online-gratuito-microsoft-power-bi-para-data-science/)
+    * [__Journey into cryptography__](https://www.khanacademy.org/computing/computer-science/cryptography)
 
 8. Extra
     * ➜  ~ figlet figlet
