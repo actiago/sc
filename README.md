@@ -1,4 +1,4 @@
-# Tool list   
+# Lista de ferramentas para profissinais de TI  
 ###### versão 0.0.0.0.0.0.0.0.0.1.1.0 
 =============================
 
@@ -9,7 +9,7 @@
     * [__Mapa do backbone BR__](https://memoria.rnp.br/backbone/index.php)
     * [__GestoIP IPAM Software__](https://www.gestioip.net) 
     * [__GoAccess SIEM Software__](https://goaccess.io)
-    * [__RAID Calc__] (http://www.wolframalpha.com/input/?i=RAID+5+4+disks+a+600gb)
+    * [__RAID Calc__](http://www.wolframalpha.com/input/?i=RAID+5+4+disks+a+600gb)
 
 3. Unix
     * [__Vim Tutorial__](https://danielmiessler.com/study/vim/?twitterID=nixCraft)
