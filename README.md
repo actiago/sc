@@ -6,6 +6,7 @@
 ###### Este documento pode não estar perfeitamente organizado
 1.  Blockchain
     * [__Go Blockchain site__](http://goblockchain.io/)
+    * [__Blockchain é uma tecnologia ruim?__](https://www.kaspersky.com.br/blog/good-good-blockchain/9830/?utm_source=newsletter&utm_medium=Email&utm_campaign=kd%20weekly%20digest)
 
 2. Infra
     * [__Network Diagram 101__](http://networkdiagram101.com)
