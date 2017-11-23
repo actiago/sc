@@ -41,6 +41,8 @@
     * [__Empreendedorismo__](https://technet.microsoft.com/pt-br/dn801072)
     * [__Azure essentials 2Nd Edition__](https://blogs.msdn.microsoft.com/microsoft_press/2016/09/01/free-ebook-microsoft-azure-essentials-fundamentals-of-azure-second-edition/)
     * [__LogParser__](https://www.microsoft.com/en-us/download/details.aspx?id=24659)
+    * [__PartnerUniversity__](https://partneruniversity.microsoft.com)
+    * [__Ms RDS__](http://www.wenzcursos.com.br/courses/take/remote-desktop-services-windows-server-2016/)
 
 5. Segurança
     * [__Recomendações de cibersegurança para o local de trabalho__](http://www.securityhacker.org/blog/2016/02/07/recomendacoes-de-ciberseguranca-para-o-local-de-trabalho)
