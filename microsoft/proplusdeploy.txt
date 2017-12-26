@@ -1,0 +1,37 @@
+1. Baixe o arquivo Office 2016 Deployment Tool
+Link: https://download.microsoft.com/download/2/7/A/27AF1BE6-DD20-4CB4-B154-EBAB8A7D4A7E/officedeploymenttool_8529.3600.exe
+
+2. Execute-o (Selecione um diretório para a extração dos arquivos)
+- Crie um diretório para a extração dos arquivos. Ex: c:\Users\Administrador\Desktop\OfficeDeploy\
+- Você obterá dois arquivos, setup.exe e configuration.xml
+
+
+3. Edite o arquivo de configuração da instalação.
+- Abaixo o exemplo utilizado pela Buysoft
+- Altere o SourcePath para um diretório de sua preferência
+- Para alterar a arquitetura edite OfficeClientEdition="32" ou OfficeClientEdition="64"
+- Mantenha o restante, caso queira explorar outras configurações acesse o link abaixo:
+Link: https://docs.microsoft.com/en-us/deployoffice/configuration-options-for-the-office-2016-deployment-tool
+
+O arquivo configuration.xml
+Faça um backup do arquivo original e cole o código abaixo com suas alterações:
+
+<Configuration>
+<Add SourcePath="C:\Share\OFFICE365\" OfficeClientEdition="32" >
+<Product ID="O365ProPlusRetail">
+<Language ID="pt-br" />
+</Product>
+<Product ID="O365ProPlusRetail">
+<Language ID="pt-br" />
+</Product>
+</Add>
+<Display Level="None" AcceptEULA="True" />
+<Property Name="SharedComputerLicensing" Value="1" />
+</Configuration>
+
+4. Com o CMD ou Powershell você executará dois processos, download e configuração/instalação
+- Download do Office 365 ProPlus de acordo com o ambiente configurado no arquivo XML
+C:\Share\Deploy\setup.exe /DOWNLOAD C:\Share\Deploy\configuration.xml
+
+- Instalar Office 365 ProPlus no servidor
+C:\Share\Deploy\setup.exe /CONFIGURE C:\Share\Deploy\configuration.xml
