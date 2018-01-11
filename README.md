@@ -43,6 +43,7 @@
     * [__LogParser__](https://www.microsoft.com/en-us/download/details.aspx?id=24659)
     * [__PartnerUniversity__](https://partneruniversity.microsoft.com)
     * [__Ms RDS__](http://www.wenzcursos.com.br/courses/take/remote-desktop-services-windows-server-2016/)
+    * [__Ms 365 Training__](https://m365.learnondemand.net/)
 
 5. Segurança
     * [__Recomendações de cibersegurança para o local de trabalho__](http://www.securityhacker.org/blog/2016/02/07/recomendacoes-de-ciberseguranca-para-o-local-de-trabalho)
@@ -63,11 +64,13 @@
 6. Cultura DevOps
     * [__Semana DevOps__](http://www.semanadevops.com.br)
     * [__Hardening Framework__](http://dev-sec.io/)
+    * [__Walmart OneOps__](http://oneops.com/index.html)
 
 7. Cursos 
     * [__C moderno com Fernando Mercês__](https://www.youtube.com/playlist?list=PLIfZMtpPYFP5qaS2RFQxcNVkmJLGQwyKE)
     * [__Curso Online Gratuito – Microsoft Power BI para Data Science – Data Science Academy__](http://datascienceacademy.com.br/blog/curso-online-gratuito-microsoft-power-bi-para-data-science/)
     * [__Journey into cryptography__](https://www.khanacademy.org/computing/computer-science/cryptography)
+    * [__Mente Binária - Python__](https://www.youtube.com/watch?v=esW-3ZfatyM&list=PLIfZMtpPYFP4seAqp3K96-PPVFCgX6Zlg)
 
 8. Extra
     * ➜  ~ figlet figlet
