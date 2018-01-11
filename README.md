@@ -85,3 +85,8 @@
 ```sh
 for x in {1..255} ; do (ping 192.168.1.$x -c 1 -w 5 >/dev/null && echo 192.168.1.$x &) ; done
 ```
+
+    - Show my Public IP 
+```sh
+curl ifconfig.pro/ip.host
+```
