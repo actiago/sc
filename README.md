@@ -78,9 +78,9 @@
     * [__HTTP Status API__](https://http.cat)
     * [__TrumpFakeTweet__](http://faketrumptweet.com/)
 
-###### Fast Commands 
+### Fast Commands 
 
-    - List online IP´s in your network
-    ```sh
-    for x in {1..255} ; do (ping 192.168.1.$x -c 1 -w 5 >/dev/null && echo 192.168.1.$x &) ; done
-    ```
+  - List online IP´s in your network
+```sh
+for x in {1..255} ; do (ping 192.168.1.$x -c 1 -w 5 >/dev/null && echo 192.168.1.$x &) ; done
+```
