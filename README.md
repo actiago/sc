@@ -75,13 +75,19 @@
 
 8. Extra
     * ➜  ~ figlet figlet
-    * No OSX edite o crontab e digite: */30 * * * * say -v whisper "I am watching you"
+    * No OSX edite o crontab e digite: 
+    ```sh
+          */30 * * * * say -v whisper "I am watching you"
+    ``` 
     * [__3RDdrones__](https://3dr.com)
-    * MeuIPo - curl canhazip.com ou curl ifconfig.pro  
-    * Seja um Hackudo acessando: http://geektyper.com/
+    * MeuIP Público
+    ```sh
+          curl canhazip.com ou curl ifconfig.pro  
+    ```      
+    * [__Seja um Hackudo__](http://geektyper.com/)
     * [__HTTP Status API__](https://http.cat)
     * [__TrumpFakeTweet__](http://faketrumptweet.com/)
-
+    * [__Question2Answer__](http://www.question2answer.org/sites.php)
 
 ### Fast Commands
 
