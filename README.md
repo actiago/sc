@@ -1,5 +1,5 @@
 # Lista de ferramentas para profissinais de TI  
-###### versão 0.0.0.0.0.0.0.0.0.1.1.0 
+###### versão 0.0.2.0: 
 =============================
 
 ## Links para pesquisas relacionadas a cada área destacada
@@ -81,7 +81,7 @@
     ``` 
     * [__3RDdrones__](https://3dr.com)
     * MeuIP Público
-    ```sh
+    ```bash
           curl canhazip.com ou curl ifconfig.pro  
     ```      
     * [__Seja um Hackudo__](http://geektyper.com/)
@@ -92,11 +92,11 @@
 ### Fast Commands
 
 - List online IP´s in your network
-```sh
+```bash
 for x in {1..255} ; do (ping 192.168.1.$x -c 1 -w 5 >/dev/null && echo 192.168.1.$x &) ; done
 ```
 
 - Show my Public IP 
-```sh
+```bash
 curl ifconfig.pro/ip.host
 ```
