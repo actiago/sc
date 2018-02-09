@@ -45,6 +45,7 @@
     * [__PartnerUniversity__](https://partneruniversity.microsoft.com)
     * [__Ms RDS__](http://www.wenzcursos.com.br/courses/take/remote-desktop-services-windows-server-2016/)
     * [__Ms 365 Training__](https://m365.learnondemand.net/)
+    * [__Free eBooks from Microsoft Press__](https://mva.microsoft.com/ebooks)
 
 5. Segurança
     * [__Recomendações de cibersegurança para o local de trabalho__](http://www.securityhacker.org/blog/2016/02/07/recomendacoes-de-ciberseguranca-para-o-local-de-trabalho)
@@ -88,6 +89,7 @@
     * [__HTTP Status API__](https://http.cat)
     * [__TrumpFakeTweet__](http://faketrumptweet.com/)
     * [__Question2Answer__](http://www.question2answer.org/sites.php)
+    * [__Succinctly Series: Free Access to 130+ E-books__](https://www.syncfusion.com/ebooks)
 
 ### Fast Commands
 
