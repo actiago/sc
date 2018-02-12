@@ -1,0 +1,120 @@
+MOCS
+https://1drv.ms/f/s!Aho9ad9NAak6gt13jKFpzVav238qsQ
+
+
+exemplos de c#
+http://github.com/50minutos
+http://github.com/50minutos/vs2010
+
+10262 - WPF 
+
+Victória, esse é o seu...
+https://1drv.ms/u/s!Aho9ad9NAak6gt14jnK35FOJp8G2GQ
+
+PDFs e PPTs para download
+https://1drv.ms/f/s!Aho9ad9NAak6gt13jKFpzVav238qsQ
+
+LIVROS DA MS FREE:
+https://blogs.msdn.microsoft.com/mssmallbiz/2017/07/11/largest-free-microsoft-ebook-giveaway-im-giving-away-millions-of-free-microsoft-ebooks-again-including-windows-10-office-365-office-2016-power-bi-azure-windows-8-1-office-2013-sharepo/
+
+MCSA WEB COMPLETO final em 2017-09-18
+https://1drv.ms/u/s!Aho9ad9NAak6gt0iw5HAI6qdYfK8zA
+
+convert disk
+https://gist.github.com/rahilwazir/69a750b70348459875cbf40935af02cb
+
+arquivos do treinamento:
+https://www.microsoft.com/en-us/learning/companion-moc.aspx
+
+http://www.devmedia.com.br/paralelismo-do-sql-server-com-o-cxpacket/31608
+
+passo-a-passo para configurar o AD FS com Office 365:
+	https://support.microsoft.com/pt-br/help/3061192/step-by-step-video-set-up-adfs-for-office-365-for-single-sign-on
+
+powershell para todos os serviços do office 365:
+	https://technet.microsoft.com/pt-BR/library/dn568015.aspx
+
+site and site collections planning Sharepoint 2016
+https://technet.microsoft.com/en-us/library/ee476994(v=office.16).aspx
+
+cmdlets do PowerShell para Office 365
+https://technet.microsoft.com/en-us/library/dn568031.aspx
+
+Diagramas técnicos do Sharepoint 2016
+https://technet.microsoft.com/en-us/library/cc263199(v=office.16).aspx
+
+cmdlets PowerShell do SharePoint Server 2016
+https://technet.microsoft.com/en-us/library/ff678226(v=office.16).aspx
+
+20339-1-LabFiles
+https://1drv.ms/u/s!Aho9ad9NAak6gtxy7OmK9YvjyxtcmA
+
+exemplos 10961 - final
+https://1drv.ms/u/s!Aho9ad9NAak6gtxr9BhsOmaqEQ3sCg
+
+exemplos de ps
+https://1drv.ms/u/s!Aho9ad9NAak6gtxoOkpcbaCvKsROHA
+
+https://docs.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-certificates-point-to-site-makecert
+
+e-mail
+AGNALDO@50minutos.com.br
+
+ultimo dia mcsa dev
+https://1drv.ms/u/s!Aho9ad9NAak6gtxlHdD5O7F-FnsIbA
+
+scrum 
+https://1drv.ms/b/s!Aho9ad9NAak6gtxKmDc0Pu4Nj4hYwA
+
+https://www.scrum.org/
+https://www.scruminc.com/
+https://www.scrumalliance.org/
+https://www.scrumstudy.com/ ***
+
+Orders (exemplo de jquery com web api)
+ https://1drv.ms/u/s!Aho9ad9NAak6gtw3FEJl3oIlqsvaAQ
+
+Exemplos do 20483 2017-06-05 (com theads)
+https://1drv.ms/u/s!Aho9ad9NAak6gtw9VwNZNSaKurMrzw
+
+https://github.com/crpietschmann/Azure-70-532-Practice-Test 
+https://github.com/crpietschmann/Azure-70-533-Practice-Test
+https://github.com/crpietschmann/Azure-70-534-Practice-Test
+
+INSTALAR AZURE POWERSHELL MODULE!!!
+https://1drv.ms/b/s!Aho9ad9NAak6gtR59aO8ytPjfZZ4bQ
+
+ARQUIVOS DE CRM 2016 DA MICROSOFT
+http://go.microsoft.com/fwlink/p/?LinkID=717388
+
+CRM 2013
+https://1drv.ms/u/s!Aho9ad9NAak6gtRxDYPy-X-T7cSdWA
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+apostilas SHAREPOINT 
+
+55031
+https://www.webucator.com/tutorial/learn-microsoft-sharepoint/index.cfm
+
+55028
+https://www.webucator.com/tutorial/advanced-microsoft-sharepoint/index.cfm
+
+ARQUIVOS DO TREINAMENTO:
+
+55031
+https://1drv.ms/u/s!Aho9ad9NAak6gttrhsxnwQnCp0WQBg
+
+55028
+https://1drv.ms/u/s!Aho9ad9NAak6gtRgsACwkC6dfolgrA
