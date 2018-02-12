@@ -90,6 +90,7 @@
     * [__TrumpFakeTweet__](http://faketrumptweet.com/)
     * [__Question2Answer__](http://www.question2answer.org/sites.php)
     * [__Succinctly Series: Free Access to 130+ E-books__](https://www.syncfusion.com/ebooks)
+    * [__Como contribuir para o OpenSource__](https://willianjusten.com.br/guia-como-contribuir-em-open-source/)
 
 ### Fast Commands
 
