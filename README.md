@@ -37,6 +37,12 @@
     * [__Netdata Monitoring Tool__](http://my-netdata.io)
     * [__Linux Life Cicle__](https://linuxlifecycle.com)
     * [__Caixa de Ferramantas do Unix__](https://tocadotux.github.io/unix-toolbox/)
+    * [__Shell Scripting Tutorial__](https://www.shellscript.sh/)
+    * [__Programando em shell script__](http://www.devin.com.br/shell_script/)
+    * [__Portal Brasileiro de Shell Script__](http://aurelio.net/shell/)
+    * [__Virtual Box - Linha de comando | Básico__](https://cegohub.github.io/2016/07/24/Virtual-Box-via-linha-de-comando-o-basico.html)
+    * [__Mac OSX cache clean__](https://github.com/cegohub/osx_cache_clean)
+
 4. Microsoft 
     * [__MVA gerenciamento de indentidade de acesso__](https://mva.microsoft.com/training-topics/gerenciamento-acesso-dentidade#!lang=1033)
     * [__Empreendedorismo__](https://technet.microsoft.com/pt-br/dn801072)
@@ -77,6 +83,14 @@
 
 8. Extra
     * ➜  ~ figlet figlet
+    * Shell password generator 
+    ```bash
+    genpasswd() {
+        local l=$1
+        [ "$l" == "" ] && l=16
+        tr -dc A-Za-z0-9_ < /dev/urandom | head -c ${l} | xargs
+    }
+    ```
     * No OSX edite o crontab e digite: 
     ```sh
           */30 * * * * say -v whisper "I am watching you"
