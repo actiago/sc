@@ -46,6 +46,7 @@
     * [__Ms RDS__](http://www.wenzcursos.com.br/courses/take/remote-desktop-services-windows-server-2016/)
     * [__Ms 365 Training__](https://m365.learnondemand.net/)
     * [__Free eBooks from Microsoft Press__](https://mva.microsoft.com/ebooks)
+    * [__Microsoft Open Source Brasil__](https://www.microsofttech.com.br/area/open-source/)
 
 5. Segurança
     * [__Recomendações de cibersegurança para o local de trabalho__](http://www.securityhacker.org/blog/2016/02/07/recomendacoes-de-ciberseguranca-para-o-local-de-trabalho)
