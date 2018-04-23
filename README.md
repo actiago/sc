@@ -74,6 +74,8 @@
     * [__Semana DevOps__](http://www.semanadevops.com.br)
     * [__Hardening Framework__](http://dev-sec.io/)
     * [__Walmart OneOps__](http://oneops.com/index.html)
+    * [__SysAdvent Blog__](https://www.redpill-linpro.com/sysadvent/)
+    * [__IncludeOS__](https://www.includeos.org/)
 
 7. Cursos 
     * [__C moderno com Fernando Mercês__](https://www.youtube.com/playlist?list=PLIfZMtpPYFP5qaS2RFQxcNVkmJLGQwyKE)
