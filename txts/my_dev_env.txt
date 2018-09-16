@@ -14,3 +14,10 @@
 6. Instale o iTerm2: https://www.iterm2.com
 7. Instale o github
 8. My ZSH Theme: ZSH_THEME="kolo"
+9. It is possible to have completions for az in zsh.
+
+1. Get the completions for bash from the Azure CLI git repo and store this file somewhere your zsh startup script can find it: https://raw.githubusercontent.com/Azure/azure-cli/dev/az.completion
+2. Enable bash autocompletions in zsh (if it's not enabled already) [1]: 
+autoload -U +X bashcompinit && bashcompinit
+3. source /path/to/az.completion (you will likely want this in your startup file for zsh also).
+
