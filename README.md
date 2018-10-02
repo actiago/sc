@@ -53,6 +53,7 @@
     * [__Ms 365 Training__](https://m365.learnondemand.net/)
     * [__Free eBooks from Microsoft Press__](https://mva.microsoft.com/ebooks)
     * [__Microsoft Open Source Brasil__](https://www.microsofttech.com.br/area/open-source/)
+    * [__Microsoft Docs Learn__](https://docs.microsoft.com/en-us/learn/)
 
 5. Segurança
     * [__Recomendações de cibersegurança para o local de trabalho__](http://www.securityhacker.org/blog/2016/02/07/recomendacoes-de-ciberseguranca-para-o-local-de-trabalho)
