@@ -1,5 +1,5 @@
-# Lista de ferramentas para profissinais de TI  
-###### versão 0.0.2.0: 
+# Lista de ferramentas para profissinais de TI
+###### versão 0.0.2.0:
 =============================
 
 ## Links para pesquisas relacionadas a cada área destacada
@@ -11,7 +11,7 @@
 2. Infra
     * [__Network Diagram 101__](http://networkdiagram101.com)
     * [__Mapa do backbone BR__](https://memoria.rnp.br/backbone/index.php)
-    * [__GestoIP IPAM Software__](https://www.gestioip.net) 
+    * [__GestoIP IPAM Software__](https://www.gestioip.net)
     * [__GoAccess SIEM Software__](https://goaccess.io)
     * [__RAID Calc__](http://www.wolframalpha.com/input/?i=RAID+5+4+disks+a+600gb)
 
@@ -43,7 +43,7 @@
     * [__Virtual Box - Linha de comando | Básico__](https://cegohub.github.io/2016/07/24/Virtual-Box-via-linha-de-comando-o-basico.html)
     * [__Mac OSX cache clean__](https://github.com/cegohub/osx_cache_clean)
 
-4. Microsoft 
+4. Microsoft
     * [__MVA gerenciamento de indentidade de acesso__](https://mva.microsoft.com/training-topics/gerenciamento-acesso-dentidade#!lang=1033)
     * [__Empreendedorismo__](https://technet.microsoft.com/pt-br/dn801072)
     * [__Azure essentials 2Nd Edition__](https://blogs.msdn.microsoft.com/microsoft_press/2016/09/01/free-ebook-microsoft-azure-essentials-fundamentals-of-azure-second-edition/)
@@ -94,15 +94,15 @@
         tr -dc A-Za-z0-9_ < /dev/urandom | head -c ${l} | xargs
     }
     ```
-    * No OSX edite o crontab e digite: 
+    * No OSX edite o crontab e digite:
     ```sh
           */30 * * * * say -v whisper "I am watching you"
-    ``` 
+    ```
     * [__3RDdrones__](https://3dr.com)
     * MeuIP Público
     ```bash
-          curl canhazip.com ou curl ifconfig.pro  
-    ```      
+          curl canhazip.com ou curl ifconfig.io
+    ```
     * [__Seja um Hackudo__](http://geektyper.com/)
     * [__HTTP Status API__](https://http.cat)
     * [__TrumpFakeTweet__](http://faketrumptweet.com/)
@@ -117,7 +117,7 @@
 for x in {1..255} ; do (ping 192.168.1.$x -c 1 -w 5 >/dev/null && echo 192.168.1.$x &) ; done
 ```
 
-- Show my Public IP 
+- Show my Public IP
 ```bash
 curl ifconfig.pro/ip.host
 ```
