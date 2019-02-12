@@ -10,8 +10,12 @@
 
 #### - [Diagramas e fluxogramas](docs/diagram.md)
 
-#### - [Editores](docs/editors.md)
+#### - [Editores de texto](docs/editors.md)
+
+#### - [Dicas](docs/tips.md) 
+
+#### - [Desenvolvimento ](docs/dev.md)
+
+#### - [Ferramentas para DevOps](docs/devops.md)
 
 #### - [Dicas](docs/tips.md)
-
-#### - [Teste de apresentação](https://google.com) 
