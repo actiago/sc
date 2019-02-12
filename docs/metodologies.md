@@ -1,11 +1,7 @@
-## The twelve-factor app 
-[Clique aqui](https://12factor.net/)
+[The twelve-factor app](https://12factor.net/)
 
-## The agile manifesto (Manifesto for Agile Software Development)
-[Clique aqui](https://agilemanifesto.org/)
+[The agile manifesto (Manifesto for Agile Software Development)](https://agilemanifesto.org/)
 
-## OKR 
-[Clique aqui](https://rework.withgoogle.com/guides/set-goals-with-okrs/steps/introduction/)
+[OKR](https://rework.withgoogle.com/guides/set-goals-with-okrs/steps/introduction/)
 
-## Pomodoro Technique 
-[Clique aqui](https://francescocirillo.com/pages/pomodoro-technique)
+[Pomodoro Technique](https://francescocirillo.com/pages/pomodoro-technique)
