@@ -1,31 +1,7 @@
-[The twelve-factor app](https://12factor.net/)
-
-[The agile manifesto (Manifesto for Agile Software Development)](https://agilemanifesto.org/)
-
-[OKR](https://rework.withgoogle.com/guides/set-goals-with-okrs/steps/introduction/)
-
-[Pomodoro Technique](https://francescocirillo.com/pages/pomodoro-technique)
-
-[Git best pratices](https://sethrobertson.github.io/GitBestPractices/)
-
-```bash
-Beautiful is better than ugly.
-Explicit is better than implicit.
-Simple is better than complex.
-Complex is better than complicated.
-Flat is better than nested.
-Sparse is better than dense.
-Readability counts.
-Special cases aren't special enough to break the rules.
-Although practicality beats purity.
-Errors should never pass silently.
-Unless explicitly silenced.
-In the face of ambiguity, refuse the temptation to guess.
-There should be one-- and preferably only one --obvious way to do it.
-Although that way may not be obvious at first unless you're Dutch.
-Now is better than never.
-Although never is often better than *right* now.
-If the implementation is hard to explain, it's a bad idea.
-If the implementation is easy to explain, it may be a good idea.
-Namespaces are one honking great idea -- let's do more of those!
-```
+| Tópico                             | Descrição                                                   |
+|:-----------------------------------|:------------------------------------------------------------|
+| [The twelve-factor app](https://12factor.net/) | The twelve-factor methodology can be applied to apps written in any programming language, and which use any combination of backing services (database, queue, memory cache, etc). |
+| [The agile manifesto](https://agilemanifesto.org/) | Manifesto for Agile Software Development |
+| [OKR](https://rework.withgoogle.com/guides/set-goals-with-okrs/steps/introduction/) | OKR (Objectives and Key Results) is a goal system used by Google and others. It is a simple tool to create alignment and engagement around measurable goals. |
+| [Pomodoro Technique](https://francescocirillo.com/pages/pomodoro-technique) | The Pomodoro Technique is a time management method developed by Francesco Cirillo in the late 1980s. The technique uses a timer to break down work into intervals, traditionally 25 minutes in length, separated by short breaks. |
+| [Git best pratices](https://sethrobertson.github.io/GitBestPractices/) | Best Practices vary from environment to environment, and there is no One True Answer, but still, this represents a consensus from #git and in some cases helps you frame the discussion for the generation of your very own best practices. |
