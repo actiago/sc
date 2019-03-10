@@ -21,4 +21,9 @@ nmap -sP "$(ip -4 -o route get 1 | cut -d ' ' -f 7)"/24 | grep report | cut -d '
 openssl req -x509 -sha256 -nodes -days 365 -newkey rsa:2048 -keyout privateKey.key -out certificate.crt
 ```
 
+- See all online IPs in your network
+```bash
+for x in {1..255} ; do (ping 192.168.1.255 -c 1 -w 5 >/dev/null && echo 192.168.1.255 &) ; done
+```
+
 
