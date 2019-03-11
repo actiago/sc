@@ -1,7 +1,0 @@
-| Tópico                             | Descrição                                                   |
-|:-----------------------------------|:------------------------------------------------------------|
-| [The twelve-factor app](https://12factor.net/) | The twelve-factor methodology can be applied to apps written in any programming language, and which use any combination of backing services (database, queue, memory cache, etc). |
-| [The agile manifesto](https://agilemanifesto.org/) | Manifesto for Agile Software Development |
-| [OKR](https://rework.withgoogle.com/guides/set-goals-with-okrs/steps/introduction/) | OKR (Objectives and Key Results) is a goal system used by Google and others. It is a simple tool to create alignment and engagement around measurable goals. |
-| [Pomodoro Technique](https://francescocirillo.com/pages/pomodoro-technique) | The Pomodoro Technique is a time management method developed by Francesco Cirillo in the late 1980s. The technique uses a timer to break down work into intervals, traditionally 25 minutes in length, separated by short breaks. |
-| [Git best pratices](https://sethrobertson.github.io/GitBestPractices/) | Best Practices vary from environment to environment, and there is no One True Answer, but still, this represents a consensus from #git and in some cases helps you frame the discussion for the generation of your very own best practices. |
