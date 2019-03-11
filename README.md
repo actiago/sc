@@ -19,10 +19,12 @@
 | [Imagens](images/images.md) | Algumas imagens baixadas por aí | 
 | [Primeira versão deste documento](docs/old_sc.md) | Lista de ferramentas para profissinais de TI |
 | [Dicas](#Dicas) | Dicas de linhas de comando |
-| [Livros e handbooks](handbooks/handbooks.md) | Livros e handbooks |
+| [Livros e handbooks](handbooks/books.md) | Livros e handbooks |
 
 
 # Desktop
+
+Em breve.
 
 # Desenvolvimento
 
